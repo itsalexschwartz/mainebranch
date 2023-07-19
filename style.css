@@ -7,4 +7,12 @@ h3 { color: #111; font-family: 'Open Sans', sans-serif; font-size: 20px; font-we
 
 
 body{ color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
 p{ color: #685206; font-family: 'Helvetica Neue', sans-serif; font-size: 14px; line-height: 24px; margin: 0 0 24px; text-align: justify; text-justify: inter-word; }
+
+.container {
+	width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #f0e68c;
+}
